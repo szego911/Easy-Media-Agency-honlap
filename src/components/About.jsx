@@ -44,15 +44,15 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Weboldal készítéssel és üzemeltetéssel foglalkozunk. Célunk, hogy igényes, 
-        jól működő és praktikus weboldalakat hozzunk létre, amelyek megfelelnek ügyfeleink
-         elvárásainak. Teljeskörű weboldal készítést kínálunk, amely magában foglalja a 
-         professzionális dizájntervezést, a modern technológiákkal történő kivitelezést, a 
-         zökkenőmentes publikálást, valamint a keresőoptimalizálást, hogy weboldala könnyen 
-         megtalálható legyen. Ezen kívül Shopify webshopok tervezésében is otthon vagyunk. 
-         Az online raktárkészlet nyilvántartását, a fizetési rendszer integrációját és a 
-         termékek feltöltését is elvégezzük, így Neked csak a megfelelő termékeket kell megtalálni.
-         Minden erőnkkel azon dolgozunk, hogy az általad megálmodott weboldalt a lehető legmagasabb 
-         színvonalon valósítsuk meg!
+        jól működő és praktikus weboldalakat hozzunk létre, amelyek megfelelnek ügyfeleink 
+        elvárásainak. Teljeskörű weboldal készítést kínálunk, amely magában foglalja a 
+        professzionális dizájntervezést, a modern technológiákkal történő kivitelezést, a 
+        zökkenőmentes publikálást, valamint a keresőoptimalizálást, hogy weboldala könnyen 
+        megtalálható legyen. Ezen kívül Shopify webshopok tervezésében is otthon vagyunk. 
+        Az online raktárkészlet nyilvántartását, a fizetési rendszer integrációját és a 
+        termékek feltöltését is elvégezzük, így Neked csak a megfelelő termékeket kell megtalálni. 
+        Minden erőnkkel azon dolgozunk, hogy az általad megálmodott weboldalt a lehető legmagasabb 
+        színvonalon valósítsuk meg!
 
         
 

@@ -144,7 +144,7 @@ const experiences = [
   },*/
   {
     title: "Weboldal karbantartás",
-    company_name: "igény szerint",
+    company_name: "Igény szerint",
     icon: grafika,
     iconBg: "#47b39d",
     date: "",
